@@ -41,3 +41,7 @@
 - SQL Database
 - NoSQL Database
 - Cloud Storage
+
+
+### Scope:
+For now only focus on Jeep Wrangler.

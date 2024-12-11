@@ -1,0 +1,51 @@
+[
+    {
+        "Manufacturer": "Chrysler (FCA US LLC)",
+        "NHTSACampaignNumber": "15V222000",
+        "parkIt": false,
+        "parkOutSide": false,
+        "overTheAirUpdate": false,
+        "ReportReceivedDate": "15/04/2015",
+        "Component": "POWER TRAIN:CLUTCH ASSEMBLY:PEDAL/HAND LEVER(MOTORCYCLE)",
+        "Summary": "Chrysler (FCA US LLC) is recalling certain model year 2006 Dodge Viper and Jeep Wrangler and Liberty vehicles manufactured July 1, 2005, to July 31, 2006.  In the affected vehicles, the springs within the clutch pedal position switch that prevents the vehicle from starting unless the clutch pedal is pushed down may break.  As a result, the vehicle may not be started when the clutch pedal is pushed down or the engine may crank and start without the clutch pedal being pushed down causing the vehicle to unexpectedly lurch.",
+        "Consequence": "If the vehicle unexpectedly moves there is an increased risk of a crash.",
+        "Remedy": "Chrysler will notify owners, and dealers will replace the clutch ignition interlock switch, free of charge.  The recall began on August 31, 2015.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is R13.",
+        "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+        "ModelYear": "2006",
+        "Make": "JEEP",
+        "Model": "WRANGLER"
+    },
+    {
+        "Manufacturer": "DAIMLERCHRYSLER CORPORATION",
+        "NHTSACampaignNumber": "06V147000",
+        "parkIt": false,
+        "parkOutSide": false,
+        "overTheAirUpdate": false,
+        "NHTSAActionNumber": "PE06015",
+        "ReportReceivedDate": "03/05/2006",
+        "Component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "Summary": "ON CERTAIN SPORT UTILITY VEHICLES EQUIPPED WITH 6 SPEED MANUAL TRANSMISSIONS, THE HYDRAULIC CLUTCH MASTER CYLINDER LINKAGE ROD MAY BREAK.  THIS MAY NOT ALLOW DISENGAGEMENT OF THE CLUTCH WHEN THE PEDAL IS DEPRESSED.",
+        "Consequence": "UNINTENTIONAL VEHICLE MOVEMENT, INCREASED STOPPING DISTANCE, AND ENGINE STALLING COULD OCCUR WHICH COULD RESULT IN A CRASH.",
+        "Remedy": "DEALERS WILL REPLACE THE CLUTCH MASTER CYLINDER LINKAGE ROD FREE OF CHARGE.  THE RECALL BEGAN ON AUGUST 7, 2006.  OWNERS MAY CONTACT DAIMLERCHRYSLER AT 1-800-853-1403.",
+        "Notes": "DAIMLERCHRYSLER RECALL NO. F22. CUSTOMERS MAY ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S VEHICLE SAFETY HOTLINE AT 1-888-327-4236 (TTY 1-800-424-9153), OR GO TO HTTP://WWW.SAFERCAR.GOV.",
+        "ModelYear": "2006",
+        "Make": "JEEP",
+        "Model": "WRANGLER"
+    },
+    {
+        "Manufacturer": "DAIMLERCHRYSLER CORPORATION",
+        "NHTSACampaignNumber": "05V460000",
+        "parkIt": false,
+        "parkOutSide": false,
+        "overTheAirUpdate": false,
+        "ReportReceivedDate": "06/10/2005",
+        "Component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "Summary": "ON CERTAIN PICKUP TRUCKS, SPORT UTILITY AND PASSENGER VEHICLES EQUIPPED WITH 42RLE AUTOMATIC TRANSMISSIONS, THE CUP PLUG THAT RETAINS THE PARK PAWL ANCHOR SHAFT MAY BE IMPROPERLY INSTALLED.  IF THE SHAFT MOVES OUT OF POSITION, THE VEHICLE MAY NOT BE ABLE TO ACHIEVE 'PARK' POSITION.",
+        "Consequence": "IF THIS OCCURS AND THE PARKING BRAKE IS NOT APPLIED, THE VEHICLE MAY ROLL AWAY AND CAUSE A CRASH WITHOUT WARNING.",
+        "Remedy": "DEALERS WILL INSPECT THE TRANSMISSIONS AND INSTALL A BRACKET TO ENSURE THE PARK PAWL ANCHOR SHAFT IS RETAINED IN THE PROPER POSITION.  THE RECALL BEGAN ON NOVEMBER 28, 2005.  OWNERS MAY CONTACT DAIMLERCHRYSLER AT 1-800-853-1403.",
+        "Notes": "DAIMLERCHRYSLER RECALL NO. E14.  CUSTOMERS MAY CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S VEHICLE SAFETY HOTLINE AT 1-888-327-4236; (TTY:1-800-424-9153); OR GO TO HTTP://WWW.SAFERCAR.GOV.",
+        "ModelYear": "2006",
+        "Make": "JEEP",
+        "Model": "WRANGLER"
+    }
+]
