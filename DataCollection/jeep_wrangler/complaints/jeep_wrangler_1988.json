@@ -1,0 +1,1278 @@
+[
+    {
+        "odiNumber": 10358727,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "08/15/2010",
+        "dateComplaintFiled": "10/01/2010",
+        "vin": "2BCCV81J5JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "WHEN FILLING MY 1988 JEEP WRANGLER WITH GASOLINE, THE GASOLINE TANK WILL OVERFLOW WITH GASOLINE BEFORE THE PUMP WILL SHUT-OFF.  THIS HAPPENS EVERY TIME I FILL UP, REGARDLESS OF ORIENTATION OF THE VEHICLE (I.E. UP HILL, DOWN HILL, LEVEL).  THE ONLY WAY I CAN TRY AND PREVENT THIS HAZARDOUS SITUATION FROM OCCURRING IS TO TRY AND PREMATURELY STOP THE FLOW OF GASOLINE.  SINCE I HAVE TO GUESS AT HOW MUCH GASOLINE IS REQUIRED TO COMPLETE THE FILL UP, AND I'M NOT ALWAYS CORRECT, THIS DOESN'T ALWAYS WORK.  BECAUSE THIS OCCURS, IT HAS CAUSED DAMAGE TO BOTH THE PLASTIC SURROUNDING THE GASOLINE FILLER AND THE PAINT BENEATH IT. *TR",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 10319262,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": true,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "03/08/2010",
+        "dateComplaintFiled": "03/12/2010",
+        "vin": "2BCCV813XJB",
+        "components": "PARKING BRAKE",
+        "summary": "I RECENTLY BOUGHT A 1988 JEEP WRANGLER.  I HAVE ONLY HAD IT FOR A FEW WEEKS.  I STARTED TO NOTICE THAT SOMETIMES WHEN I ENGAGE THE PARKING BRAKE, IT FAILS AND RELEASES.  EVERYTIME IT WOULD HAPPEN, IT WOULD HAPPEN RIGHT AWAY AND I WOULD SIMPLY RE-ENGAGE IT, EXCEPT FOR THIS LAST TIME IT HAPPENED.  I HAD MY JEEP PARKED IN MY DRIVEWAY WITH THE PARKING BRAKE ENGAGED.  WHILE I WAS AT SCHOOL, THE PARKING BRAKE FAILED AGAIN AND DISENGAGED.  MY JEEP, THEN, ROLLED DOWN MY DRIVEWAY AND HIT A TREE IN MY BACKYARD.  THIS HAPPENED JUST THE OTHER DAY AND IT IS STILL IN THE SAME POSITION AS I FOUND IT WHEN I CAME HOME.  I HAVE NOT DONE ANYTHING TO FIX IT YET. *TR",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 8023823,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "01/01/1989",
+        "dateComplaintFiled": "12/05/2002",
+        "vin": "2BCCV8129JB",
+        "components": "VISIBILITY",
+        "summary": "CONSUMER STATED WATER LEAKED THROUGH THE FRONT WINDSHIELD.  TS  *JB",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 768286,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "10/09/2002",
+        "vin": "2BCCV81J8JB",
+        "components": "PARKING BRAKE",
+        "summary": "1989 AND NEWER HAVE BEEN RECALLED, WHAT ABOUT MY 1988?     MR",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 763903,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": true,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "07/07/2002",
+        "vin": "2BCCV8146JB",
+        "components": "PARKING BRAKE",
+        "summary": "HAVE REPLACE PARKING BRAKE ASSY TWICE SINCE PURCHASED. CRASH WAS INTO MY HOUSE WHEN PARKING BRAKE DISENGAGED  IN DRIVEWAY.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 745864,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "03/01/2001",
+        "dateComplaintFiled": "05/24/2001",
+        "vin": "2BCCV8132JB",
+        "components": "VISIBILITY",
+        "summary": "WINDSHIELD FRAME SEVERELY RUSTED AFTER WINDSHIELD FRAME REPLACED BY DEALER ON TSB 271T . BOTH DEALER AND CHRYSLER CUSTOMER SUPPORT REFUSE TO ACKNOWLEDGE INHERENT METAL FAILURE OF REPLACEMENT FRAME ESPECIALLY WHEN PROVEN THAT THE ORIGINAL CAR BODY EXHIBITS NO RUST WHILE THE REPLACEMENT FRAME INSTALLED AT A LATTER DATE EXHIBITS SEVERE RUST.*AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 731804,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": true,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "04/01/1999",
+        "dateComplaintFiled": "09/18/2000",
+        "vin": "2BCCV8144JB",
+        "components": "PARKING BRAKE",
+        "summary": "THE PARKING BRAKE ON MY JEEP HAS A TENDANCY TO DISENGAGE WITHOUT WARNING.  BEFORE I WAS AWARE OF THIS DEFECT, IT DISENGAGED IN A PARKING LOT AND CAUSED MY JEEP TO ROLL BACK ONTO A NEW FORD MUSTANG, CAUSING CONSIDERABLE DAMAGE TO THE OTHER VEHICLE, AND APPEARING ON MY INSURANCE RECORD AS A FAILURE ON MY PART TO ENGAGE THE BRAKE.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 718595,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "02/09/2000",
+        "dateComplaintFiled": "02/11/2000",
+        "vin": "2BCCV81J1JB",
+        "components": "SEATS",
+        "summary": "THE SEAT TRACKS ON THE JEEP WRANGLER MODEL FAIL, WITH THE METAL TEARING WHERE A BOLT FASTENS INTO THE SEAT. THIS CAUSES SEAT INSTABILITY AND CAN CAUSE WRECKS OR INJURIES. I FOUND OUT MORE THAN 70 OF THE SAME PARTS ARE ON BACK ORDER, WITH NO DATE FOR ARRIVAL GIVEN. MY FIRST TRACK BROKE LAST YEAR, MY SECOND YESTERDAY. I'VE HAD AN ORDER IN FOR BOTH FOR A MONTH NOW. I BELIEVE THE HIGH NUMBER OF ORDERS SHOWS A DANGEROUS, POTENTIALLY DEADLY RISK TO DRIVERS WHERE THE MODEL IS SOLD.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 846011,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "08/05/1998",
+        "dateComplaintFiled": "09/20/1999",
+        "vin": "2BCHV81J3JB",
+        "components": "ENGINE AND ENGINE COOLING",
+        "summary": "FUEL FUMES.NO LEAKS. CONTACTED DEALER. *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 535855,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "05/01/1998",
+        "dateComplaintFiled": "05/18/1998",
+        "vin": "2BCCV81JOJB",
+        "components": "SEAT BELTS",
+        "summary": "DRIVERS SIDE SEAT BELT LATCH WILL NOT BUCKLE.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 535756,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "03/20/1998",
+        "vin": "2BCCV81JXJB",
+        "components": "ENGINE AND ENGINE COOLING",
+        "summary": "EXHAUST MANIFOLD CRACKED.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 533136,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "03/20/1998",
+        "vin": "2BCCV81JXJB",
+        "components": "PARKING BRAKE",
+        "summary": "EMERGENCY BRAKE DISENGAGES BY ITSELF REGARDLESS IF ON A HILL OR NOT. *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 526187,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "12/15/1997",
+        "vin": "2BCCZ8121JB",
+        "components": "ENGINE AND ENGINE COOLING",
+        "summary": "GASOLINE SMELL ENTERS VEHICLE WHILE IDLING.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 526187,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "12/15/1997",
+        "vin": "2BCCZ8121JB",
+        "components": "ENGINE AND ENGINE COOLING",
+        "summary": "TAIL PIPE IS ANGLED AND THE END IS ON THE EDGE OF THE REAR BUMPER.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 523197,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "01/01/1997",
+        "dateComplaintFiled": "11/04/1997",
+        "vin": "2BCCV81M8JB",
+        "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+        "summary": "INTERMITTENT STALLING DUE TO ENGINE FAILURES.  ALSO REPLACED IGNITION.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 520875,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "06/13/1997",
+        "dateComplaintFiled": "09/19/1997",
+        "vin": "2BCCZ81J3JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "VEHICLE FIRE WAS CAUSED BY A CRACK IN THE FUEL LINE.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 546626,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "02/05/1997",
+        "vin": "2BCCV81J7B5",
+        "components": "SERVICE BRAKES, HYDRAULIC,FUEL SYSTEM, GASOLINE",
+        "summary": "FUEL PUMP AND BRAKES RECALLED.  OWNER INTERESTED IN RIGHTS AS A CONSUMER WITH REGUARD TO RECALLS.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 806002,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "12/04/1996",
+        "dateComplaintFiled": "01/28/1997",
+        "vin": "28CCZ8129JB",
+        "components": "ELECTRICAL SYSTEM",
+        "summary": "WHILE DRIVING EXPERIENCED SUDDEN ENGINE STALLING, PULLED TO SIDE, NOTICED FLAMES COMING FROM UNDER BODY, FIRE SPREAD FROM ENGINE TO CAB, VEHICLE TOTALED.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 527950,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "01/09/1997",
+        "vin": "2BCCZ81J6JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "TROUBLE WITH RECALL WORK, CONSUMER HAD ADDITIONAL CHARGES WHEN RECALL REPAIR WORK WAS DONE ON THE FUEL TANK SENDING UNIT.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 803939,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "10/07/1996",
+        "dateComplaintFiled": "11/13/1996",
+        "vin": "2BCCZ8146JB",
+        "components": "ENGINE AND ENGINE COOLING,POWER TRAIN",
+        "summary": "THE MOUNT THAT HOLDS THE TRANSMISSION IN PLACE IS HELD ON WITH TWO BOLTS, BOTH HEADS SHEARED OFF; ALSO, REPLACED LEAKING ENGINE VALVE COVER.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 803519,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "10/15/1996",
+        "vin": "12BCCZ814XJ",
+        "components": "UNKNOWN OR OTHER",
+        "summary": "EVERYTIME IT RAINS, PUDDLES OF WATER DEVELOP ON THE DRIVER'S AND PASSENGER'S SIDE.  THE WATER COMES FROM WITHIN THE DASHBOARD. PLEASE GIVE MORE INFORMATION.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 802976,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "06/10/1989",
+        "dateComplaintFiled": "09/30/1996",
+        "vin": "2BCCZ81J4JB",
+        "components": "ELECTRICAL SYSTEM",
+        "summary": "WHEN DRIVING AT HIGH SPEED THE VEHICLE CUT OFF WITHOUT ANY WARNING.   *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 801759,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "09/20/1996",
+        "vin": "2BCCV811XJB",
+        "components": "ELECTRICAL SYSTEM",
+        "summary": "CONSUMER WAS DRIVING AND THE JEEP STALLED, WENT TO OPEN THE HOOD AND THE ENGINE WAS ON FIRE . *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 985621,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "06/12/1996",
+        "vin": "",
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "BRAKE FLUID LINE IS RUBBING AGAINST MUD FLAP, AND HAS WORN THOUGH IT.        *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 982155,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "02/10/1996",
+        "dateComplaintFiled": "04/01/1996",
+        "vin": "2BCCV8145JB",
+        "components": "ENGINE AND ENGINE COOLING",
+        "summary": "DRIVING VEHICLE, VEHICLE CAUGHT FIRE, TOOK VEHICLE TO DEALER, FOUND NOTHING WRONG, PICKED VEHICLE UP, CAUGHT FIRE AGAIN WHILE DRIVING.   *AK   *JB",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 979559,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "01/15/1996",
+        "dateComplaintFiled": "02/22/1996",
+        "vin": "28CCV811XJB",
+        "components": "SEAT BELTS",
+        "summary": "THE DRIVER'S SIDE SEAT BELT RECEPTICLE IS BROKEN AND WILL NOT LATCH. PLEASE DESCRIBE DETAILS.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 979559,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "01/15/1996",
+        "dateComplaintFiled": "02/22/1996",
+        "vin": "28CCV811XJB",
+        "components": "SEAT BELTS",
+        "summary": "THE DRIVER'S SIDE SEAT BELT RECEPTICLE IS BROKEN AND WILL NOT LATCH. PLEASE DESCRIBE DETAILS.  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 501030,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "11/18/1995",
+        "dateComplaintFiled": "02/01/1996",
+        "vin": "",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "FUEL TANK CAUGHT FIRE AFTER RECALL. *SD",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 976592,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "12/14/1995",
+        "dateComplaintFiled": "12/14/1995",
+        "vin": "",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "EXHAUST FUMES COMING INTO THE VEHICLE CABIN, CAUSED BY DEFECTIVE FUEL SENDING UNIT. TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 974161,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "10/28/1995",
+        "dateComplaintFiled": "10/30/1995",
+        "vin": "2BCCV8116JB",
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "HYDRAULIC BRAKE LINE BROKE AT THE FITTING, PARTIAL LOSS OF BRAKING WHILE TRAVELING AT 70 MPH.  TT  *JB",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 973652,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "10/19/1995",
+        "vin": "2BCCV81J3JB",
+        "components": "SEATS",
+        "summary": "HAD TO REPLACE SEAT BACK BECAUSE OF FAILURE, SEAT BACK IS BREAKING AGAIN.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 973553,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "06/01/1995",
+        "dateComplaintFiled": "10/18/1995",
+        "vin": "",
+        "components": "SEATS",
+        "summary": "DRIVERS SIDE SEAT BACK COLLAPSED WHILE DRIVING.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 973396,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "10/06/1995",
+        "dateComplaintFiled": "10/13/1995",
+        "vin": "2BCCL81KXHB",
+        "components": "SEATS",
+        "summary": "DRIVER'S BUCKET SEAT TRACK TORE HEAD OF MOUNTING BOLT; CAUSED SEAT TO FLIP TO REAR WITH OCCUPANT STILL BUCKLED UP.  TT   HEAD OF MOUNTING BOLTS WAS TOO SMALL. BOLT HEAD PULLED THROUGH TRACK HOLE CAUSING THE SEAT TO TILT BACKWARD.  *YH",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 972033,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "09/01/1995",
+        "dateComplaintFiled": "09/14/1995",
+        "vin": "2BCCV8138JB",
+        "components": "SEATS",
+        "summary": "EXPERIENCE SEAT BACK FAILURE, WHEN LEANING BACK THE SEAT FALLS BACK.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 971761,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "08/06/1995",
+        "dateComplaintFiled": "09/07/1995",
+        "vin": "2BCCB81M8JB",
+        "components": "SEATS",
+        "summary": "PASSENGER SIDE SEAT BROKE.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 969316,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "07/15/1995",
+        "dateComplaintFiled": "07/24/1995",
+        "vin": "2BCCZ8130JB",
+        "components": "POWER TRAIN",
+        "summary": "WHILE DRIVING REAR AXLE FELL OFF.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 484475,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "03/13/1995",
+        "dateComplaintFiled": "07/22/1995",
+        "vin": "2BCCV81J7JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "FUEL SENDING UNIT IN FUEL PUMP FAILED, RESULTING IN A LEAK AFTER RECALL REPAIRS. (94V-106).  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 968948,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": null,
+        "dateComplaintFiled": "07/18/1995",
+        "vin": "2BCCZ81J7JB",
+        "components": "ENGINE AND ENGINE COOLING",
+        "summary": "#94V106000 RECEIVE RECALL HAD PROBLEM FIX WASN'T HAVING PROBLEM UNTIL DEALER FIX JEEP IS LEAKING OIL .   TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 968889,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "07/17/1995",
+        "dateComplaintFiled": "07/17/1995",
+        "vin": "2BCCV8122JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "CARBURATOR PLATE SHAFT IS DEFECTIVE, CAUSING AIR TO ENTER BASE OF CARBURETOR,  RESULTING IN STALLING.   *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 967767,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "06/19/1995",
+        "dateComplaintFiled": "06/27/1995",
+        "vin": "2BCCV81K0JB",
+        "components": "SEATS",
+        "summary": "THE DRIVERS SEAT WAS FRACTURED 11 INCHES ON THE RIGHT SIDE AND 13 INCHES ON THE LEFT SIDE. PLEASE DESCRIBE.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 967308,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "06/20/1995",
+        "dateComplaintFiled": "06/20/1995",
+        "vin": "2BCCV81J9JV",
+        "components": "SEAT BELTS",
+        "summary": "THE DRIVERS SIDE FEMALE PRTION OF THE SEATBELT WILL NOT EXCEPT THE MALE PART OF THE SEATBELT. PLEASE EXPLAIN.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 966823,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "10/01/1994",
+        "dateComplaintFiled": "06/14/1995",
+        "vin": "",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "HAD UNDERHOOD FIRE CHECKED WITH CHRYSLER TO SEE IF THERE WAS A RECALL ANSWER WAS YOUR VIN WAS NOT INVOLVED TWO WEEKS LATER GOT RECALL NOTICE FOR THE PROBLEM.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 486528,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "05/23/1995",
+        "dateComplaintFiled": "05/23/1995",
+        "vin": "",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "UNABLE TO PERFORM FUEL TANK SENDING UNIT GASKET RECALL REPAIR DUE TO TRAILER HITCH BEING WELDED TO FUEL TANK SKID PLATE. (94V-106)  *AW",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 964761,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": true,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "04/12/1995",
+        "dateComplaintFiled": "05/03/1995",
+        "vin": "2BCCV81JXJB",
+        "components": "PARKING BRAKE",
+        "summary": "EMERGENCY BRAKE LOOSE WHILE PARKED ON A HILL.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 482962,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "04/01/1995",
+        "dateComplaintFiled": "04/01/1995",
+        "vin": "2BCCV81J7JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "RECALL REPAIRS REFUSED DUE TO AFTER-MARKET HITCH INSTALLED ON VEHICLE.    (94V106)     *TW",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 962727,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "07/14/1994",
+        "dateComplaintFiled": "03/29/1995",
+        "vin": "2BCCZ8140JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "DRIVING DOWN EXPRESSWAY PARKED CAR AND VEHICLE CAUGHT ON FIRE.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 962550,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "12/23/1994",
+        "dateComplaintFiled": "03/24/1995",
+        "vin": "2BCCY81K4JB",
+        "components": "VISIBILITY",
+        "summary": "MORGAN MOTORS JEEP EAGLE 92V148. OWNER TOOK VEHICLE IN FOR RECALL AND WORK WAS NEVER DONE. NOW DEALER WANTS HIM TO PAY FOR IT.  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 962509,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "02/28/1994",
+        "dateComplaintFiled": "03/24/1995",
+        "vin": "2BCCZ811XJB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "FUEL SENDING UNIT GASKET CRACKED, CAUSING FUEL TO LEAK OUT OF TANK, RESULTING IN FIRES PRIOR TO RECALL (94V-106).  *AK",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 482062,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "02/01/1994",
+        "dateComplaintFiled": "03/10/1995",
+        "vin": "2BCCV8129JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "FUEL TANK FIRE PRIOR TO RECALL (94V-106).  *SKD",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 960416,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "02/20/1995",
+        "dateComplaintFiled": "02/22/1995",
+        "vin": "2BCCV81M3JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "DEALER WANTED TO CHARGE 25.00 FOR FUEL TANK SENDING GASKET RECALL REPAIRS AND ZONE OFFICE STATES TOUGH LUCK (94V106).  TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 481998,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "02/08/1995",
+        "dateComplaintFiled": "02/21/1995",
+        "vin": "28CCV8121JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "VEHICLE FIRE DUE TO FUEL LEAK, RECALL REPAIRS REFUSED DUE TO VIN.  *SKD",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 959862,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "01/10/1995",
+        "dateComplaintFiled": "02/10/1995",
+        "vin": "2BCCV8116JB",
+        "components": "SEAT BELTS",
+        "summary": "DRIVERS SEAT BELT BUCKLE FAILS TO ENGAGE; FEMALE PORTION OF DRIVER SIDE SEAT BELT WILL NOT HOLD MALE PORTION OF LAP BELT.   TT",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 476891,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "07/01/1994",
+        "dateComplaintFiled": "12/05/1994",
+        "vin": "2BCCV81M05B",
+        "components": "SEATS",
+        "summary": "DRIVER'S SEAT RAILS SPLIT.  *SKD",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 476891,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "07/01/1994",
+        "dateComplaintFiled": "12/05/1994",
+        "vin": "2BCCV81M05B",
+        "components": "STRUCTURE",
+        "summary": "DRIVER'S SEAT RAIL BODY AND FRAME CRACKED, CAUSING SEAT TO COLLAPSE.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 474839,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "06/01/1994",
+        "dateComplaintFiled": "10/22/1994",
+        "vin": "2BCCV81J3JB",
+        "components": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "BRAKES FAILED.  *SKD",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 459201,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "08/02/1993",
+        "dateComplaintFiled": "08/02/1993",
+        "vin": "2BCCV8117JB",
+        "components": "FUEL SYSTEM, GASOLINE",
+        "summary": "FUEL TANK LEAKS GAS ONTO TAIL PIPE/EMITS GASOLINE ODOR AFTER FILLING TANK.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 459201,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": true,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "08/06/1982",
+        "dateComplaintFiled": "08/02/1993",
+        "vin": "2BCCV8117JB",
+        "components": "ENGINE AND ENGINE COOLING",
+        "summary": "CATALYTIC CONVERTER CAUGHT ON FIRE.  *AW",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    },
+    {
+        "odiNumber": 459201,
+        "manufacturer": "Chrysler (FCA US, LLC)",
+        "crash": false,
+        "fire": false,
+        "numberOfInjuries": 0,
+        "numberOfDeaths": 0,
+        "dateOfIncident": "08/02/1993",
+        "dateComplaintFiled": "08/02/1993",
+        "vin": "2BCCV8117JB",
+        "components": "SEAT BELTS",
+        "summary": "SEAT BELT HANGS LOOSELY, CAUSING STRAP TO GET CAUGHT ON DOOR LATCH/CUT WHEN DOOR IS CLOSED.",
+        "products": [
+            {
+                "type": "Vehicle",
+                "productYear": "1988",
+                "productMake": "JEEP",
+                "productModel": "WRANGLER",
+                "manufacturer": "Chrysler (FCA US, LLC)"
+            }
+        ]
+    }
+]
