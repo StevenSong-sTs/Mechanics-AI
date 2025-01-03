@@ -1,6 +1,4 @@
 import os
-from typing import List
-from sentence_transformers import SentenceTransformer
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_pinecone import Pinecone
 from langchain_openai import ChatOpenAI
@@ -35,7 +33,7 @@ class RAGChain:
         # Initialize LLM
         self.llm = ChatOpenAI(
             model_name=model_name,
-            temperature=0.0,
+            temperature=0.7,
             openai_api_key=openai_api_key or os.getenv('OPENAI_API_KEY')
         )
         
@@ -90,17 +88,15 @@ if __name__ == "__main__":
         openai_api_key=os.getenv('OPENAI_API_KEY')
     )
     
-    # Example conversation
-    questions = [
-        "Why my 2020 Jeep Wrangler is making a loud noise while braking?",
-        "I plan to buy a 2018 Jeep Wrangler, what are some common issues I should be aware of?",
-        "The check engine light is on for my 2020 Jeep wrnagler, it has 30,000 miles on it, what are some possible causes?"
-    ]
-    
-    for question in questions:
-        print(f"\nQuestion: {question}")
+    # Command prompt interaction
+    print("Chatbot is ready! Type your questions below (type 'exit' to quit).")
+    while True:
+        question = input("\nYou: ")
+        if question.lower() == 'exit':
+            print("Goodbye!")
+            break
         response = rag.query(question)
-        print(f"Answer: {response['answer']}")
+        print(f"\nChatbot: {response['answer']}")
         print("\nSources:")
         for i, source in enumerate(response['sources'], 1):
             print(f"{i}. {source[:200]}...")
