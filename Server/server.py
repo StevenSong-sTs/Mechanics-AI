@@ -1,4 +1,5 @@
 import os
+import re
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_pinecone import Pinecone
 from langchain_openai import ChatOpenAI
@@ -33,7 +34,7 @@ class RAGChain:
         # Initialize LLM
         self.llm = ChatOpenAI(
             model_name=model_name,
-            temperature=0.7,
+            temperature=1.6,
             openai_api_key=openai_api_key or os.getenv('OPENAI_API_KEY')
         )
         
@@ -41,7 +42,7 @@ class RAGChain:
         self.memory = ConversationBufferMemory(
             memory_key="chat_history",
             return_messages=True,
-            output_key="answer"  # Specify which output to store in memory
+            output_key="answer"  # which output to store in memory
         )
         
         # Create retrieval chain
@@ -52,19 +53,102 @@ class RAGChain:
             ),
             memory=self.memory,
             return_source_documents=True,
-            combine_docs_chain_kwargs={"output_key": "answer"}  # Ensure consistent output key
+            combine_docs_chain_kwargs={"output_key": "answer"}  # ensure consistent output key
         )
+
+    def extract_year_and_type(self, text: str):
+        """
+        Extracts year and type (recall/complaint) from text.
+        """
+        # Extract year
+        year_match = re.search(r"\b(19|20)\d{2}\b", text)
+        year = year_match.group(0) if year_match else None
+
+        # Determine type based on query keywords
+        if "recall" in text.lower():
+            query_type = "recall"
+        elif "complaint" in text.lower():
+            query_type = "complaint"
+        else:
+            query_type = None
+
+        return {
+            "year": year,
+            "type": query_type
+        }
+
+    def find_year_in_history(self, chat_history):
+        """
+        Look for a year in reversed chat history. 
+        Returns the first year found or None.
+        """
+        for msg in reversed(chat_history):
+            # msg is typically {'role': 'user'/'assistant', 'content': 'some text'}
+            year_match = re.search(r"\b(19|20)\d{2}\b", msg.content)
+            if year_match:
+                return year_match.group(0)
+        return None
+
+    def find_type_in_history(self, chat_history):
+        """
+        Optionally, look for 'recall' or 'complaint' if needed.
+        """
+        for msg in reversed(chat_history):
+            if "recall" in msg.content.lower():
+                return "recall"
+            elif "complaint" in msg.content.lower():
+                return "complaint"
+        return None
     
     def query(self, question: str) -> dict:
-        """
-        Process a question and return both the answer and source documents
-        """
         try:
-            response = self.chain.invoke({"question": question})  # Use invoke instead of __call__
+            # Retrieve conversation history from memory
+            chat_history = self.memory.load_memory_variables({}).get("chat_history", [])
+            
+            # Extract from current user question
+            metadata = self.extract_year_and_type(question)
+            print(f"Extracted Metadata: {metadata}")
+
+            # If no year in the user question, attempt to parse from history
+            if not metadata["year"]:
+                historical_year = self.find_year_in_history(chat_history)
+                if historical_year:
+                    metadata["year"] = historical_year
+
+            # If still no year, ask user
+            if not metadata["year"]:
+                return {
+                    "answer": "I need more information to answer your question. Could you specify the year?",
+                    "sources": []
+                }
+
+            # Configure filters
+            filters = {"ModelYear": metadata["year"]}
+            if metadata["type"]:
+                filters["type"] = metadata["type"]
+
+            print(f"Filters used: {filters}")
+
+            # Retrieve documents
+            filtered_retriever = self.vectorstore.as_retriever(
+                search_kwargs={
+                    "k": 3,
+                    "filter": filters
+                }
+            )
+
+            # Override the chain's retriever
+            self.chain.retriever = filtered_retriever
+
+            # Query the chain
+            response = self.chain.invoke({"question": question, "chat_history": chat_history})
+            # print(f"Chain response: {response}")
+
             return {
                 "answer": response["answer"],
                 "sources": [doc.page_content for doc in response["source_documents"]]
             }
+
         except Exception as e:
             print(f"Error during query: {str(e)}")
             return {
@@ -72,12 +156,12 @@ class RAGChain:
                 "sources": []
             }
 
+
 # Usage example
 if __name__ == "__main__":
     # Set environment variable to avoid tokenizer warning
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
     
-    # Need to load environment variables first
     load_dotenv()
     
     # Initialize the RAG chain
@@ -88,7 +172,6 @@ if __name__ == "__main__":
         openai_api_key=os.getenv('OPENAI_API_KEY')
     )
     
-    # Command prompt interaction
     print("Chatbot is ready! Type your questions below (type 'exit' to quit).")
     while True:
         question = input("\nYou: ")
