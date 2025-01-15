@@ -182,3 +182,5 @@ By default, LangChain’s ConversationalRetrievalChain or “stuff” chain migh
 Acknowledge it does not have a definitive answer.
 Present possibly related sources.
 Include disclaimers—e.g. “This may not address your exact problem.”
+
+2. Try add link by using the ID of the recall and complaints, using the id can potentially lead to a webpage from NHSTA
