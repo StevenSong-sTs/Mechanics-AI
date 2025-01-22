@@ -64,7 +64,7 @@ class RAGChain:
         pinecone_env: str,
         index_name: str,
         openai_api_key: str = None,
-        model_name: str = "gpt-3.5-turbo"
+        model_name: str = "gpt-4o-mini"
     ):
         """
         RAGChain constructor:
@@ -115,15 +115,13 @@ class RAGChain:
         )
 
         # 8) Create the ConversationalRetrievalChain
-        #    - We pass `chain_type=None` so it doesn't auto-create a combine chain
-        #    - Then we pass our own `combine_docs_chain`
         self.chain = ConversationalRetrievalChain.from_llm(
             llm=self.llm,
             retriever=self.vectorstore.as_retriever(search_kwargs={"k": 3}),
             memory=self.memory,
+            combine_docs_chain=self.combine_docs_chain,
             return_source_documents=True,
-            chain_type=None,
-            combine_docs_chain=self.combine_docs_chain
+            verbose=True  # Optional: helps with debugging
         )
 
     def extract_year_and_type(self, text: str):
@@ -225,7 +223,7 @@ if __name__ == "__main__":
         pinecone_env=os.getenv("PINECONE_ENVIRONMENT"),
         index_name=os.getenv("PINECONE_INDEX_NAME"),
         openai_api_key=os.getenv("OPENAI_API_KEY"),
-        model_name="gpt-3.5-turbo"
+        model_name="gpt-4o-mini"
     )
 
     print("Chatbot is ready! Type your questions below (type 'exit' to quit).")
