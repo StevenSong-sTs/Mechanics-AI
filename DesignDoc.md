@@ -190,4 +190,4 @@ Include disclaimers—e.g. “This may not address your exact problem.”
 If you ask the chatbot: How are you? It will keep answering: "Tell me the year of the model". This is because the chatbot is hardcoded to ask for the year of the model. Improve this behavior.
 
 
-4
+4. The disclaimers exist on every response. Only show it when the chatbot is not sure about the answer.
