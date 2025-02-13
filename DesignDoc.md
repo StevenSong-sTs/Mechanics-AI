@@ -176,11 +176,18 @@ Generate Embeddings:
 
 
 ## Improvements to make:
-1. Provide a Custom “No Direct Answer” Prompt
+1. Provide a Custom “No Direct Answer” Prompt ✅
 By default, LangChain’s ConversationalRetrievalChain or “stuff” chain might produce “I’m sorry, I don’t know that.” if the LLM can’t confidently answer. But you can override the default prompt to instruct the model to:
 
 Acknowledge it does not have a definitive answer.
 Present possibly related sources.
-Include disclaimers—e.g. “This may not address your exact problem.”
+Include disclaimers—e.g. “This may not address your exact problem.” 
+
 
 2. Try add link by using the ID of the recall and complaints, using the id can potentially lead to a webpage from NHSTA
+
+3. Addressing HardCode Problem:
+If you ask the chatbot: How are you? It will keep answering: "Tell me the year of the model". This is because the chatbot is hardcoded to ask for the year of the model. Improve this behavior.
+
+
+4
