@@ -22,6 +22,14 @@ from langchain.chains.llm import LLMChain
 ########################
 from pinecone import Pinecone as PineconeClient
 
+########################
+# Flask Server Setup
+########################
+from flask import Flask, request, jsonify
+from flask_cors import CORS  # You'll need to install this: pip install flask-cors
+
+app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 ########################
 # Custom Prompt for "Stuff" QA
@@ -206,6 +214,20 @@ Standalone Question:"""
                 "sources": []
             }
 
+@app.route('/query', methods=['POST'])
+def handle_query():
+    try:
+        data = request.json
+        question = data.get('question')
+        if not question:
+            return jsonify({"error": "No question provided"}), 400
+
+        result = rag.query(question)
+        return jsonify(result)
+
+    except Exception as e:
+        print(f"Error processing request: {e}")
+        return jsonify({"error": "Internal server error"}), 500
 
 ###################
 # Main Interactive Loop
@@ -223,18 +245,6 @@ if __name__ == "__main__":
         model_name="gpt-4o-mini"
     )
 
-    print("Chatbot is ready! Type your questions below (type 'exit' to quit).")
-    while True:
-        user_input = input("\nYou: ")
-        if user_input.lower() == "exit":
-            print("Goodbye!")
-            break
-
-        resp = rag.query(user_input)
-        print(f"\nChatbot: {resp['answer']}\n")
-
-        # Show truncated sources
-        print("Sources:")
-        for i, src in enumerate(resp["sources"], 1):
-            print(f"{i}. {src[:200]}...")
+    # Run the Flask server instead of the console interface
+    app.run(host='0.0.0.0', port=5000, debug=True)
 

@@ -5,9 +5,16 @@ import { MessageCircleCode } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { ScrollArea } from "@/components/ui/scroll-area";
+import ReactMarkdown from 'react-markdown';
+
+interface Message {
+  sender: string;
+  text: string;
+  sources?: string[];
+}
 
 export default function Home() {
-  const [messages, setMessages] = useState<{ sender: string; text: string }[]>([]);
+  const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
 
@@ -33,7 +40,11 @@ export default function Home() {
       }
 
       const data = await response.json();
-      const botMessage = { sender: "Chatbot", text: data.answer };
+      const botMessage = { 
+        sender: "Chatbot", 
+        text: data.answer,
+        sources: data.sources
+      };
       setMessages((prev) => [...prev, botMessage]);
     } catch (error) {
       console.error("Error fetching chatbot response:", error);
@@ -96,7 +107,33 @@ export default function Home() {
                       : "bg-transparent text-white"
                   }`}
                 >
-                  <p className="max-w-[80ch]">{msg.text}</p>
+                  {msg.sender === "User" ? (
+                    <p className="max-w-[80ch]">{msg.text}</p>
+                  ) : (
+                    <div>
+                      <ReactMarkdown 
+                        className="max-w-[80ch] prose prose-invert prose-pre:bg-slate-800 prose-pre:p-2 prose-pre:rounded-md"
+                      >
+                        {msg.text}
+                      </ReactMarkdown>
+                      
+                      {msg.sources && msg.sources.length > 0 && (
+                        <div className="mt-4 border-t border-slate-700 pt-4">
+                          <p className="text-sm text-slate-400 mb-2">Sources:</p>
+                          <div className="space-y-2">
+                            {msg.sources.map((source, idx) => (
+                              <div 
+                                key={idx} 
+                                className="text-sm bg-slate-800 p-2 rounded-md text-slate-300"
+                              >
+                                {source}
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  )}
                 </div>
               </div>
             ))}
